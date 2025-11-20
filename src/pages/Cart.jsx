@@ -31,7 +31,7 @@ function Cart() {
                   <td><img width={'50px'} src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D" alt="" /></td>
                   <td>
                     <div className='d-flex'>
-                      <button className='btn fs-3 fw-bold'>-</button>
+                      <button className='btn fs-3 fw-bold'>- </button>
                       <input style={{width:'50px'}} value={10} type="text" className='form-control' readOnly />
                     </div>
                   </td>
